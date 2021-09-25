@@ -21,6 +21,7 @@ header{
     width: 100%;   
     opacity: 0.9; 
     transition: 1s;
+    box-shadow: 7px 7px 5px #c4c4c4;
 }
 .foto:hover{
     opacity: 1;
