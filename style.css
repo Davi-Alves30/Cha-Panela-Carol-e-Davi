@@ -45,6 +45,9 @@ header{
     font-family: 'Architects Daughter', cursive;
     line-height: 1.5;
 }
+section h3{
+    font-weight: bold;
+}
 .versiculo{
     margin: 50px 0 0 0;
     text-align: center;
