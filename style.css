@@ -1,0 +1,132 @@
+header{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 75px 0 75px 0;
+}
+.titulo-principal{
+    padding-left: 20px;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em;
+}
+.caixa{
+    position: relative;
+    width: 900px;
+    margin: 0 auto;
+    padding: 5px 5px;
+}
+.foto{
+    position: relative;
+    width: 100%;   
+    opacity: 0.9; 
+    transition: 1s;
+}
+.foto:hover{
+    opacity: 1;
+    width: 101%;
+}
+.principal{
+    margin-top: 10px;
+    padding: 30px;
+}
+.principal h2{
+    font-family: 'Kaushan Script', cursive;
+}
+.texto-central{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 1em 0 1em;
+}
+.texto{
+    font-size: 18px;
+    margin: 15px 0;
+    font-family: 'Architects Daughter', cursive;
+    line-height: 1.5;
+}
+.versiculo{
+    margin: 50px 0 0 0;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+}
+.versiculo strong{
+    font-size: 18px;
+    font-weight: bold;
+}
+.versiculo em{
+    font-size: 18px;
+    font-style: italic;
+}
+.lista{
+    margin: 30px auto;
+    background: #ffcef5;
+    text-transform: lowercase;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 20px;
+    width: 940px;
+}
+.lista h2{
+    font-size: 2em;
+    padding: 40px 40px 40px 40px;
+    font-family: 'Kaushan Script', cursive;
+}
+.lista li{
+    margin: 5px 5px 5px 85px;
+    font-family: 'Architects Daughter', cursive;
+}
+.lista li:hover{
+    color: #cb00f3;
+    font-size: 21px;
+    text-decoration: underline;
+}
+.lista li:active{
+    color: #43d1fc;
+    font-size: 21px;
+    text-decoration:line-through;
+}
+footer {
+    text-align: center;
+    padding: 40px 0;
+}
+.foto4{
+    position: relative;
+    width: 100%;
+}
+.copyright{
+    font-size: 13px;
+    margin-top: 30px;
+}
+form{
+    margin: 0px 40px;
+    padding-bottom: 40px;
+}
+.botao-confirmar{
+    padding: 15px 0px;
+    font-size: 30px;
+    width: 50%;
+    background: #f8bc17;
+    font-weight: bold;
+    margin: 20px 250px;  
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+.botao-confirmar:hover{
+    background: darkorange;
+    transform: scale(1.2);
+}
+.mapa{
+    padding: 3em 0;
+    margin: auto;
+    width: 900px;
+}
+.texto-mapa{
+    padding: 1em 0 1em;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em;
+}
