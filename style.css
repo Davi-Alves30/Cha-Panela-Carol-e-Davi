@@ -21,7 +21,6 @@ header{
     width: 100%;   
     opacity: 0.9; 
     transition: 1s;
-    box-shadow: 7px 7px 5px #c4c4c4;
 }
 .foto:hover{
     opacity: 1;
@@ -45,9 +44,6 @@ header{
     margin: 15px 0;
     font-family: 'Architects Daughter', cursive;
     line-height: 1.5;
-}
-section h3{
-    font-weight: bold;
 }
 .versiculo{
     margin: 50px 0 0 0;
@@ -134,3 +130,4 @@ form{
     font-family: 'Kaushan Script', cursive;
     font-size: 2em;
 }
+
