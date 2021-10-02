@@ -9,6 +9,7 @@ header{
     text-align: center;
     font-family: 'Kaushan Script', cursive;
     font-size: 2em;
+    color:#cb6b79;
 }
 .caixa{
     position: relative;
@@ -19,12 +20,6 @@ header{
 .foto{
     position: relative;
     width: 100%;   
-    opacity: 0.9; 
-    transition: 1s;
-}
-.foto:hover{
-    opacity: 1;
-    width: 101%;
 }
 .principal{
     margin-top: 10px;
@@ -38,6 +33,7 @@ header{
     font-weight: bold;
     font-size: 2em;
     margin-bottom: 1em 0 1em;
+    color: #cb6b79;
 }
 .texto{
     font-size: 18px;
@@ -133,5 +129,6 @@ form{
     text-align: center;
     font-family: 'Kaushan Script', cursive;
     font-size: 2em;
+    color: #cb6b79;
 }
 
