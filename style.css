@@ -63,14 +63,15 @@ section h3{
 }
 .lista{
     margin: 30px auto;
-    background: #ffcef5;
+    background: #cb6b79;
     text-transform: lowercase;
-    font-weight: bold;
+ 
     font-size: 20px;
     border-radius: 20px;
     width: 940px;
 }
 .lista h2{
+    color: #f89500;
     font-size: 2em;
     padding: 40px 40px 40px 40px;
     font-family: 'Kaushan Script', cursive;
